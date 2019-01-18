@@ -1,1 +1,1 @@
-*.SQL linguist-language=PostgreSQL
+*.sql linguist-language=PostgreSQL
