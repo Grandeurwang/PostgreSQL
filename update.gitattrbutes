@@ -1,3 +1,4 @@
 *.js linguist-language=PostgreSQL
 *.css linguist-language=PostgreSQL
 *.html linguist-language=PostgreSQL
+*.sql linguist-language=PostgreSQL
